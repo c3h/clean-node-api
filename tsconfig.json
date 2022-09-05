@@ -4,6 +4,7 @@
         "module": "commonjs", // gerar código js na versão web
         "target": "es2019", // gerar código js no padrão 2019
         "esModuleInterop": true, // converte certas partes
-        "allowJs": true // permite que arquivos em js sejam compilados
-    },
+        "allowJs": true, // permite que arquivos em js sejam compilados
+        "strictNullChecks": true
+    }
 }
