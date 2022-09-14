@@ -5,6 +5,6 @@
         "target": "es2019", // gerar código js no padrão 2019
         "esModuleInterop": true, // converte certas partes
         "allowJs": true, // permite que arquivos em js sejam compilados
-        "strictNullChecks": true
+        "strictNullChecks": false
     }
 }
